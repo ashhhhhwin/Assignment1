@@ -1,0 +1,13 @@
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\obj\Debug\netcoreapp3.1\LTI_Assignment_1.csproj.AssemblyReference.cache
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\obj\Debug\netcoreapp3.1\LTI_Assignment_1.AssemblyInfoInputs.cache
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\obj\Debug\netcoreapp3.1\LTI_Assignment_1.AssemblyInfo.cs
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\obj\Debug\netcoreapp3.1\LTI_Assignment_1.csproj.CoreCompileInputs.cache
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\bin\Debug\netcoreapp3.1\LTI_Assignment_1.exe
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\bin\Debug\netcoreapp3.1\LTI_Assignment_1.deps.json
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\bin\Debug\netcoreapp3.1\LTI_Assignment_1.runtimeconfig.json
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\bin\Debug\netcoreapp3.1\LTI_Assignment_1.runtimeconfig.dev.json
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\bin\Debug\netcoreapp3.1\LTI_Assignment_1.dll
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\bin\Debug\netcoreapp3.1\LTI_Assignment_1.pdb
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\obj\Debug\netcoreapp3.1\LTI_Assignment_1.dll
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\obj\Debug\netcoreapp3.1\LTI_Assignment_1.pdb
+D:\LTI Training\c#\LTI_Assignment_1\LTI_Assignment_1\obj\Debug\netcoreapp3.1\LTI_Assignment_1.genruntimeconfig.cache
